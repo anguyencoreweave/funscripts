@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "---------------------------------------------"
-echo "$(date): Starting i40e driver installation script"
+echo "$(date): Starting i40e driver installation script - this script is used for setting up dual port Intel XL710 Green color NICs that are freshly installed in A40s."
 echo "---------------------------------------------"
 
 echo "$(date): Downloading i40e driver..."
